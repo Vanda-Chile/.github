@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+# Nueva característica #
+
 **Plantilla para Solicitud de Función**
 
 **Descripción de la función solicitada:**
