@@ -1,7 +1,7 @@
 ---
 name: "📦 Épica"
 about: "Bloque grande de funcionalidad que requiere múltiples historias de usuario."
-title: "[EPIC] - Nombre de la funcionalidad"
+title: "📦 Épica - Nombre de la funcionalidad"
 labels: ["type: epic"]
 assignees: []
 ---
