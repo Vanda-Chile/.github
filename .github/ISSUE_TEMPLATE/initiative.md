@@ -1,6 +1,6 @@
 ---
 name: "🚀 Iniciativa"
-description: "Objetivo estratégico o meta de negocio a mediano/largo plazo."
+about: "Objetivo estratégico o meta de negocio a mediano/largo plazo."
 title: "[INICIATIVA] - Nombre corto del objetivo"
 labels: ["type: initiative"]
 assignees: []
