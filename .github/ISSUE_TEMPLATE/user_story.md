@@ -1,7 +1,7 @@
 ---
 name: "📝 Historia de Usuario"
 about: "Requerimiento detallado expresado desde el punto de vista del usuario final."
-title: "[STORY] - Yo como... quiero... para..."
+title: "📝 Historia de Usuario - Yo como... quiero... para..."
 labels: ["type: story"]
 assignees: []
 ---
