@@ -1,7 +1,7 @@
 ---
 name: "🛠️ Tarea Técnica / Sub-task"
 about: "Trabajo técnico específico a nivel de código, infraestructura o base de datos."
-title: "[TASK] - Breve descripción de la tarea técnica"
+title: "🛠️ Tarea Técnica / Sub-task - Breve descripción de la tarea técnica"
 labels: ["type: task"]
 assignees: []
 ---
